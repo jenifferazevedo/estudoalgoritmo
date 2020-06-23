@@ -1,0 +1,7 @@
+C:\Users\jenif\Documents\Curso_cesae\Algoritmo\programacaoPL\ficha4_ex\ficha4_ex\bin\Debug\ficha4_ex.exe.config
+C:\Users\jenif\Documents\Curso_cesae\Algoritmo\programacaoPL\ficha4_ex\ficha4_ex\bin\Debug\ficha4_ex.exe
+C:\Users\jenif\Documents\Curso_cesae\Algoritmo\programacaoPL\ficha4_ex\ficha4_ex\bin\Debug\ficha4_ex.pdb
+C:\Users\jenif\Documents\Curso_cesae\Algoritmo\programacaoPL\ficha4_ex\ficha4_ex\obj\Debug\ficha4_ex.csprojAssemblyReference.cache
+C:\Users\jenif\Documents\Curso_cesae\Algoritmo\programacaoPL\ficha4_ex\ficha4_ex\obj\Debug\ficha4_ex.csproj.CoreCompileInputs.cache
+C:\Users\jenif\Documents\Curso_cesae\Algoritmo\programacaoPL\ficha4_ex\ficha4_ex\obj\Debug\ficha4_ex.exe
+C:\Users\jenif\Documents\Curso_cesae\Algoritmo\programacaoPL\ficha4_ex\ficha4_ex\obj\Debug\ficha4_ex.pdb
